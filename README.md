@@ -45,6 +45,16 @@ Attack.ipynb
 
 MNIST files are stored in the **archive/** directory.
 
+## **Requirements**
+```bash
+tensorflow
+numpy
+matplotlib
+seaborn
+scikit-learn
+foolbox
+```
+
 Team:
 - [@YashwanthKoleti](https://github.com/YashwanthKoleti)
 - [@harsh241082](https://github.com/harsh241082)
