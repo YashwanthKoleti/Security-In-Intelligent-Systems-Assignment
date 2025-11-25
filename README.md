@@ -45,3 +45,6 @@ Attack.ipynb
 
 MNIST files are stored in the **archive/** directory.
 
+Team:
+Koleti Yashwanth Chowdary
+Pedeneni Harshith
