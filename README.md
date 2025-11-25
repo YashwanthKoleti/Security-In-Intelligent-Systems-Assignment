@@ -5,13 +5,13 @@ In this assignment we trained a baseline model, data poisoning, adversarial atta
 ## **Assignment Structure**
 
 ```
-├── archive/                       -> MNIST dataset
+├── archive/                       # MNIST dataset
 ├── Assignment 1 - Secure AI Systems.pdf   # Assignment.pdf
-├── baseline_model.py              -> Baseline MNIST model training
-├── baseline_model.h5              -> Saved baseline model
-├── confusion_matrix_baseline.png  -> Baseline model confusion matrix
-├── Attack.ipynb                   -> Data poisoning, FGSM/PGD attacks, robust training
-├── Report.pdf                     -> Final assignment report
+├── baseline_model.py              # Baseline MNIST model training
+├── baseline_model.h5              # Saved baseline model
+├── confusion_matrix_baseline.png  # Baseline model confusion matrix
+├── Attack.ipynb                   # Data poisoning, FGSM/PGD attacks, robust training
+├── Report.pdf                     # Final assignment report
 └── README.md
 ```
 
